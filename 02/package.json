@@ -1,0 +1,14 @@
+{
+  "name": "magic",
+  "description": "The Magic CLI.",
+  "version": "0.1.0",
+  "author": {
+    "name": "afonsopacifer",
+    "email": "afonsopacifer@live.com"
+  },
+  "preferGlobal": true,
+  "main": "index.js",
+  "bin": {
+    "magic": "index.js"
+  }
+}
